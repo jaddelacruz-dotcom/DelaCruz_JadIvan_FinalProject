@@ -20,3 +20,20 @@ The **Asset Maintenance Tracker** is a Python-based Command Line Interface (CLI)
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/](https://github.com/)[YourUsername]/[YourRepoName].git
+
+## Navigate to the directory
+cd [Maintenance Tracker]
+
+## Run the application
+python src/main.py
+
+---
+
+## 📸 Sample Usage
+### Adding a New Task
+When you run the app, select option **1**. Enter the asset name (e.g., "Laptop"), the service (e.g., "Battery Replacement"), and the date.
+
+### Viewing Logs
+Select option **2** to display a numbered list of all maintenance entries currently stored in `data/maintenance_log.json`.
+
+> **Note to Instructor:** Screenshots of the CLI in action are located in the `/screenshots` folder (or attached below).
