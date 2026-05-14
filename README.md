@@ -18,8 +18,8 @@ The **Asset Maintenance Tracker** is a Python-based Command Line Interface (CLI)
 
 ##  Installation & Setup
 1. **Clone the repository:**
-   ```bash
-https://github.com/jaddelacruz-dotcom/DelaCruz_JadIvan_FinalProject/tree/main/DelaCruz_JadIvan_FinalProject
+```bash
+   git clone [https://github.com/](https://github.com/)[YourUsername]/[YourRepoName].git
 
 ## Navigate to the directory
 cd [Maintenance Tracker]
