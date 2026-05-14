@@ -1,7 +1,6 @@
 # Asset Maintenance Tracker (CLI)
 
 **Submitted by:** Jad Ivan Dela Cruz
-
 **Course:** Intermediate Programming  
 **Video Demonstration:** [PASTE YOUR YOUTUBE URL HERE]
 
