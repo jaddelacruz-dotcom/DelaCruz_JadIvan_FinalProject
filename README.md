@@ -21,3 +21,4 @@ The **Asset Maintenance Tracker** is a Python-based Command Line Interface (CLI)
 ```bash
    git clone [https://github.com/jaddelacruz-dotcom/DelaCruz_JadIvan_FinalProject/tree/main/DelaCruz_JadIvan_FinalProject]
 
+Navigate to the directory
