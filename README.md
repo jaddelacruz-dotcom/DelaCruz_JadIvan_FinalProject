@@ -38,4 +38,4 @@ Select option **2** to display a numbered list of all maintenance entries curren
 ##  Installation & Setup
 **Clone the repository:**
    ```bash
-   git clone [https://github.com/](https://github.com/)[YourUsername]/[YourRepoName].git
+   git clone [https://github.com/jaddelacruz-dotcom/DelaCruz_JadIvan_FinalProject/tree/main/DelaCruz_JadIvan_FinalProject]
