@@ -29,7 +29,7 @@ python src/main.py
 
 ---
 
-## 📸 Sample Usage
+## Sample Usage
 ### Adding a New Task
 When you run the app, select option **1**. Enter the asset name (e.g., "Laptop"), the service (e.g., "Battery Replacement"), and the date.
 
