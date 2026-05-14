@@ -2,7 +2,7 @@
 
 **Submitted by:** Jad Ivan Dela Cruz         
 **Course:** Intermediate Programming      
-**Video Demonstration:** [PASTE YOUR YOUTUBE URL HERE]
+**Video Demonstration:** (https://www.youtube.com/watch?v=DN4AhdaC3ug)
 
 ## Project Description
 The **Asset Maintenance Tracker** is a Python-based Command Line Interface (CLI) application designed to help users log, manage, and track maintenance activities for various equipment or assets. This project solves the real-world problem of disorganized service records by providing a structured, persistent storage system.
